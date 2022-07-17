@@ -20,15 +20,15 @@
 
 # Project information
 site_name: Material for MkDocs
-site_url: https://squidfunk.github.io/mkdocs-material/
+site_url: https://renglab.github.io/mkdocs-material/
 site_author: Martin Donath
 site_description: >-
   Create a branded static site from a set of Markdown files to host the
   documentation of your Open Source or commercial project
 
 # Repository
-repo_name: squidfunk/mkdocs-material
-repo_url: https://github.com/squidfunk/mkdocs-material
+repo_name: renglab/renglab
+repo_url: https://github.com/renglab/renglab
 
 # Copyright
 copyright: Copyright &copy; 2016 - 2022 Martin Donath
